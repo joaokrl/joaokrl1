@@ -2,8 +2,8 @@
 
 Meu nome é João Vitor
 
-- Estou praticando alura
-- Estou aprendendo JavaScript
+- Estou praticando [Alura](https://www.alura.com.br)
+- Aprendendo JavaScript
 - Ultizo essa area
 
 ![](https://media.tenor.com/OeMwYUVqbHUAAAAC/neymar.gif)
